@@ -13,6 +13,7 @@ Group:		Development/Python
 Url:		http://pypi.python.org/progressbar/
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildArch:	noarch
+BuildRequires:	python-setuptools
 %py_requires -d
 
 %description

@@ -4,7 +4,7 @@ Summary:	Progress bar module for Python
 
 Name:		python-%{module}
 Version:	2.3
-Release:	2
+Release:	3
 Source0:	http://python-%{module}.googlecode.com/files/%{module}-%{version}.tar.gz
 License:	BSD
 Group:		Development/Python

@@ -8,7 +8,7 @@ Release:	1
 Source0:	https://files.pythonhosted.org/packages/source/p/progressbar/%{module}-%{version}.tar.gz
 License:	BSD
 Group:		Development/Python
-Url:		http://pypi.python.org/progressbar/
+Url:		https://pypi.python.org/progressbar/
 BuildArch:	noarch
 BuildRequires:	python-setuptools
 BuildRequires:  python-devel

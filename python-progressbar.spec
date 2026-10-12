@@ -4,7 +4,7 @@ Summary:	Progress bar module for Python
 
 Name:		python-%{module}
 Version:	2.5
-Release:	3
+Release:	4
 Source0:	https://files.pythonhosted.org/packages/source/p/progressbar/%{module}-%{version}.tar.gz
 License:	BSD
 Group:		Development/Python
